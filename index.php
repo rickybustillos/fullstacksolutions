@@ -334,7 +334,7 @@
         <?php if($_GET['status'] == 1) { 
           echo '<div class="alert alert-success alert-dismissible fade show" role="alert">
                   <h4 class="alert-heading">Sucesso!</h4>
-                  <p>O email foi enviado com sucesso!</p>
+                  <p>Sua mensagem foi enviada com sucesso!</p>
                   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                   </button>
