@@ -10,6 +10,8 @@
       gtag('js', new Date());
 
       gtag('config', 'UA-146540428-1');
+      gtag('set', {'user_id': 'USER_ID'});
+      ga('set', 'userId', 'USER_ID');
     </script>
 
     <meta charset="utf-8">
