@@ -331,9 +331,79 @@
       <div id="contato"></div>
       <section>
 
+        <?php if($_GET['status'] == 1) { 
+          echo '<div class="alert alert-success alert-dismissible fade show" role="alert">
+                  <h4 class="alert-heading">Sucesso!</h4>
+                  <p>O email foi enviado com sucesso!</p>
+                  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>';
+        } else if($_GET['status'] == 2) { 
+          echo '<div class="alert alert-danger alert-dismissible fade show" role="alert">
+                  <h4 class="alert-heading">Oops!</h4>
+                  <p>Algo deu errado com o envio da mensagem.</p>
+                  <hr>
+                  <p>Você pode nos contatar diretamente pelo email <span class="blue-text">solutionsfullstack@gmail.com</span></p>
+                  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>';
+        }
+        ?>
+
         <h2 class="my-5 h3 text-center">Contato</h2>
 
-        
+        <div class="row">
+
+          <div class="col-md-6 mx-auto">
+
+            <form class="text-center mb-5" action="processa_envio.php" method="post">
+
+              <div class="form-row">
+
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label for="nome" class="font-weight-bold">Nome</label> 
+                    <input type="text" id="nome" name="nome" class="form-control mb-4" placeholder="Nome" required>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <label for="sobrenome" class="font-weight-bold">Sobrenome</label> 
+                    <input type="text" id="sobrenome" name="sobrenome" class="form-control mb-4" placeholder="Sobrenome" required>
+                  </div>
+                </div>
+
+              </div>
+
+              <div class="form-group">
+								<label for="email" class="font-weight-bold">Email</label>
+                <input type="email" id="email" name="email" class="form-control mb-4" placeholder="Seu melhor e-mail" required>
+              </div>
+
+              <div class="form-group">
+								<label for="assunto" class="font-weight-bold">Assunto</label>
+                <input type="text" id="assunto" name="assunto" class="form-control mb-4" placeholder="Assunto" required>
+              </div>
+
+                <div class="form-group">
+								  <label for="mensagem" class="font-weight-bold">Mensagem</label>
+								  <textarea class="form-control" id="mensagem" name="mensagem" rows="3" placeholder="Mensagem" required></textarea>
+							</div>
+
+                <div class="custom-control custom-checkbox mb-4">
+                    <input type="checkbox" class="custom-control-input" id="copia" name="copia">
+                    <label class="custom-control-label" for="copia">Enviar uma cópia para seu email.</label>
+                </div>
+
+                <button class="btn blue-gradient btn-block" type="submit">Enviar</button>
+
+            </form>
+
+          </div>
+        </div>
 
       </section>
 
