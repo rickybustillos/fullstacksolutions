@@ -4,6 +4,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="DC.title" content="Instituto Federal de São Paulo - IFSP Câmpus Guarulhos">
+    <meta name="geo.region" content="BR-SP">
+    <meta name="geo.placename" content="Guarulhos">
+    <meta name="geo.position" content="-23.439358;-46.537512">
+    <meta name="ICBM" content="-23.439358, -46.537512">
+
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="A Fullstack Solutions oferece serviços para desenvolvimento de sites e sistemas para sua empresa. Também temos serviços focados com a elaboração da identidade visual de sua marca e aplicação de estratégias do marketing digital.">
     <title>Fullstack Solutions | Sua empresa visível para o mundo</title>
@@ -42,7 +48,7 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
 
-              <li class="nav-item my-auto mx-2 ">
+              <li class="nav-item my-auto mx-2">
                 <a class="nav-link text-center d-lg-none d-md-block" href="#inicio">Início
                   <span class="sr-only"></span>
                 </a>
