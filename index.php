@@ -97,8 +97,8 @@
           <div class="col-md-6 my-4">
 
             <h3 class="h3 mb-3">Sobre a Fullstack Solutions</h3>
-            <p>A Fullstack Solutions tem por intuito ajudar e fazer com que pequenas e médias empresas sejam integradas ao universo digital. Além de encontrar formas e soluções eficientes para a organização da empresa, .</p>
-            <p>Criada e desenvolvida por dois programadores, Henrique Bustillos e Jade Luany, trabalhamos com desenvolvimento de sites, portfólios, e-commerces, lojas virtuais, entre outros.</p>
+            <p>A Fullstack Solutions tem por intuito ajudar e fazer com que pequenas e médias empresas sejam integradas ao universo digital. Além de encontrar formas e soluções eficientes para a organização da empresa.</p>
+            <p>Criada e desenvolvida por dois programadores, Henrique Bustillos e Jade Luany, trabalhamos com desenvolvimento de sites, portfólios, e-commerces, lojas virtuais, entre outros serviços, como a automatização de processos de gestão utilizando sistemas de gerenciamento de estoque, segurança de dados e configurações de redes intranet.</p>
 
           </div>
         </div>
@@ -234,7 +234,7 @@
               </div>
               <div class="col-10">
                 <h6 class="feature-title">Sites Dinâmicos (sistemas)</h6>
-                <p class="grey-text text-justify">Conteúdo introduzido/alterado/excluído automaticamente através de scripts no servidor, através de linguagens como PHP, Python, Ruby, Java, entre outros. Com sistema de gerenciamento de conteúdo.
+                <p class="grey-text text-justify">O conteúdo desse tipo de site é totalmente gerenciável por um sistema, como um painel administrativo, onde toda informação possa ser  introduzida, alterada ou excluída por um usuário administrador.
                 </p>
                 <div style="height:15px"></div>
               </div>
@@ -246,8 +246,8 @@
               </div>
               <div class="col-10">
                 <h6 class="feature-title">Infraestrutura de Site</h6>
-                <p class="grey-text text-justify">Para evitar a lentidão ou a queda constante do site, fazendo com que o usuário tenha acessibilidade e rapidez ao 
-                utiliza-lo</p>
+                <p class="grey-text text-justify">Os melhores servidores com as melhores velocidades para seu site, permitindo assim a disponibilidade e eficiência ao 
+                acessá-lo quando quiser.</p>
                 <div style="height:15px"></div>
               </div>
             </div>
@@ -265,7 +265,7 @@
             </div>
           </div>
 
-          <div class="col-md-4 flex-center my-auto">
+          <div class="col-md-4 my-auto d-none d-lg-block text-center">
             <img src="img/common/fullstack-icon.png" style="width: 200px;" alt="Fullstack Solutions"
               class="z-depth-0 img-fluid">
           </div>
@@ -290,7 +290,7 @@
               </div>
               <div class="col-10">
                 <h6 class="feature-title">Design</h6>
-                <p class="grey-text text-justify">Se preocupar em fazer dele uma página memorável, que trará resultado algum para o seu negócio.
+                <p class="grey-text text-justify">Elaborar uma identidade visual é se preocupar em fazer do site ou da sua marca algo memorável, que com certeza aumentará a confiabilidade de atrair novos clientes ao seu negócio.
 
                   </p>
                 <div style="height:15px"></div>
@@ -303,8 +303,7 @@
               </div>
               <div class="col-10">
                 <h6 class="feature-title">Marketing Digital</h6>
-                <p class="grey-text text-justify">São ações de comunicação que as empresas podem utilizar por meio da internet,
-                 da telefonia celular e outros meios digitais, para assim divulgar e comercializar seus produtos, .
+                <p class="grey-text text-justify">São ações de comunicação que as empresas podem utilizar por meio da internet, e outros meios digitais, para assim divulgar e comercializar seus produtos/serviços.
                 </p>
                 <div style="height:15px"></div>
               </div>
@@ -334,122 +333,7 @@
 
         <h2 class="my-5 h3 text-center">Contato</h2>
 
-        <div class="row features-small mt-5 wow fadeIn">
-
-          <div class="col-xl-3 col-lg-6">
-            <div class="row">
-              <div class="col-2">
-                <i class="fab fa-firefox fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2 pl-3">
-                <h5 class="feature-title font-bold mb-1">Telefone</h5>
-                <p class="grey-text mt-2">Chrome, Firefox, IE, Safari, Opera, Microsoft Edge - MDB loves all browsers;
-                  all browsers love MDB.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-lg-6">
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-level-up-alt fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Frequent updates</h5>
-                <p class="grey-text mt-2">MDB becomes better every month. We love the project and enhance as much as
-                  possible.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-lg-6">
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-comments fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Active community</h5>
-                <p class="grey-text mt-2">Our society grows day by day. Visit our forum and check how it is to be a
-                  part of our family.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-lg-6">
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-code fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">jQuery 3.x</h5>
-                <p class="grey-text mt-2">MDB is integrated with newest jQuery. Therefore you can use all the latest
-                  features which come along with
-                  it.
-                </p>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="row features-small mt-4 wow fadeIn">
-
-          <div class="col-xl-3 col-lg-6">
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-cubes fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Modularity</h5>
-                <p class="grey-text mt-2">Material Design for Bootstrap comes with both, compiled, ready to use
-                  libraries including all features as
-                  well as modules for CSS (SASS files) and JS.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-lg-6">
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-question fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Technical support</h5>
-                <p class="grey-text mt-2">We care about reliability. If you have any questions - do not hesitate to
-                  contact us.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-lg-6">
-            <div class="row">
-              <div class="col-2">
-                <i class="fas fa-th fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">Flexbox</h5>
-                <p class="grey-text mt-2">MDB fully supports Flex Box. You can forget about alignment issues.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-lg-6">
-            <div class="row">
-              <div class="col-2">
-                <i class="far fa-file-code fa-2x mb-1 indigo-text" aria-hidden="true"></i>
-              </div>
-              <div class="col-10 mb-2">
-                <h5 class="feature-title font-bold mb-1">SASS files</h5>
-                <p class="grey-text mt-2">Arranged and well documented .scss files can't wait until you compile them.</p>
-              </div>
-            </div>
-          </div>
-
-        </div>
+        
 
       </section>
 
