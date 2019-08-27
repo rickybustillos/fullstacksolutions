@@ -152,7 +152,7 @@
                 </div>
                 <div class="col-md-6">
                   <h5 class="feature-title ">Missão</h5>
-                  <p class="text-justify">Nos preocupamos em agir com responsabilidade, gerando soluções eficazes no ramo da Tecnologia da Informação. Atendemos as necessidades de nossos clientes oferecendo serviços com qualidade e eficiência. Comprometemos a agir de forma ética e transparente, buscando a satisfação de nossos clientes e contribuindo para o desenvolvimento e prosperidade da empresa.</p>
+                  <p class="text-justify">Nos preocupamos em agir com responsabilidade, gerando soluções eficazes no ramo da Tecnologia da Informação. Atendemos as necessidades de nossos clientes oferecendo serviços com qualidade e eficiência. Nos comprometemos a agir de forma ética e transparente, buscando a satisfação de nossos clientes e contribuindo para o desenvolvimento e prosperidade da empresa.</p>
                 </div>
 
               <div style="height:30px"></div>
@@ -246,8 +246,7 @@
                 </div>
                 <div class="col-10">
                   <h6 class="feature-title">Infraestrutura de Site</h6>
-                  <p class="grey-text text-justify">Os melhores servidores com as melhores velocidades para seu site, permitindo assim a disponibilidade e eficiência ao 
-                  acessá-lo quando quiser.</p>
+                  <p class="grey-text text-justify">Os melhores servidores com as melhores velocidades para seu site, permitindo assim a disponibilidade e eficiência ao acessá-lo quando quiser além de ser escalavel podendo expandir o volume de dados de acordo a necessidade dos clientes.</p>
                   <div style="height:15px"></div>
                 </div>
               </div>
@@ -331,25 +330,28 @@
         <div id="contato"></div>
         <section>
 
-          <?php if($_GET['status'] == 1) { 
-            echo '<div class="alert alert-success alert-dismissible fade show" role="alert">
-                    <h4 class="alert-heading">Sucesso!</h4>
-                    <p>Sua mensagem foi enviada com sucesso!</p>
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <span aria-hidden="true">&times;</span>
-                    </button>
-                  </div>';
-          } else if($_GET['status'] == 2) { 
-            echo '<div class="alert alert-danger alert-dismissible fade show" role="alert">
-                    <h4 class="alert-heading">Oops!</h4>
-                    <p>Algo deu errado com o envio da mensagem.</p>
-                    <hr>
-                    <p>Você pode nos contatar diretamente pelo email <span class="blue-text">solutionsfullstack@gmail.com</span></p>
-                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <span aria-hidden="true">&times;</span>
-                    </button>
-                  </div>';
-          }
+          <?php 
+            if(isset($_GET['status'])){
+              if($_GET['status'] == 1) { 
+                echo '<div class="alert alert-success alert-dismissible fade show" role="alert">
+                        <h4 class="alert-heading">Sucesso!</h4>
+                        <p>Sua mensagem foi enviada com sucesso!</p>
+                        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>';
+              } else if($_GET['status'] == 2) { 
+                echo '<div class="alert alert-danger alert-dismissible fade show" role="alert">
+                        <h4 class="alert-heading">Oops!</h4>
+                        <p>Algo deu errado com o envio da mensagem.</p>
+                        <hr>
+                        <p>Você pode nos contatar diretamente pelo email <span class="blue-text">solutionsfullstack@gmail.com</span></p>
+                        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>';
+              }
+            }
           ?>
 
           <h2 class="my-5 h3 text-center">Contato</h2>
