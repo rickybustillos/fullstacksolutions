@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta description="A Fullstack Solutions oferece serviços para desenvolvimento de sites e sistemas para sua empresa, bem como elaboração da identidade visual de sua marca e aplicação de estratégias do marketing digital.">
+    <meta name="description" content="A Fullstack Solutions oferece serviços para desenvolvimento de sites e sistemas para sua empresa. Também temos serviços focados com a elaboração da identidade visual de sua marca e aplicação de estratégias do marketing digital.">
     <title>Fullstack Solutions | Sua empresa visível para o mundo</title>
     <link rel="shortcut icon" href="_img/common/fullstack-icon.ico" type="image/x-icon">
     <!-- Font Awesome -->
@@ -41,11 +41,13 @@
         <div class="mx-auto">
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
-              <li class="nav-item active my-auto mx-2">
-                <a class="nav-link text-center" href="#inicio">Início
+
+              <li class="nav-item my-auto mx-2 ">
+                <a class="nav-link text-center d-lg-none d-md-block" href="#inicio">Início
                   <span class="sr-only"></span>
                 </a>
               </li>
+
               <li class="nav-item my-auto mx-2">
                 <a class="nav-link text-center" href="#sobre">Sobre</a>
               </li>
