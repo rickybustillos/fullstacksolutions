@@ -111,7 +111,7 @@
           <div class="row">
             <div class="col-md-6 my-4 d-none d-md-block">
 
-              <img src="_img/common/fullstack-wallpaper.png" class="img-fluid " alt="Programação Fullstack" name="Programação Fullstack">
+              <img src="_img/common/fullstack-wallpaper.jpg" class="img-fluid " alt="Programação Fullstack" name="Programação Fullstack">
 
             </div>
             <div class="col-md-6 my-4">
@@ -133,7 +133,7 @@
             <div class="col-lg-10 col-xl-8 mb-5 mx-auto">
 
               <div class="media d-block d-md-flex mb-4">
-                <img class="d-flex rounded-circle avatar z-depth-1-half mb-3 mx-auto" src="_img/common/ricky.png" width="150" alt="Avatar">
+                <img class="d-flex rounded-circle avatar z-depth-1-half mb-3 mx-auto" src="_img/common/ricky.jpg" width="150" alt="Avatar">
                 <div class="media-body text-center text-md-left ml-md-3 ml-0">
                   <h5 class="mt-0 font-weight-bold blue-text">Henrique Bustillos</h5>
                   <p class="text-justify">Gerente da empresa, desenvolvedor Fullstack nas linguagens web como HTML, CSS, JavaScript, PHP, MySQL e responsável pelo web design dos serviços oferecidos. É perfeccionista, detalhista em busca do atendimento pleno dos clientes.
