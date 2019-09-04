@@ -353,6 +353,31 @@
                 <button class="btn blue-gradient btn-block" type="submit">Enviar</button>
               </form>
             </div>
+            <div class="col-md-6 mx-auto">
+
+              <!--Google map-->
+              <div id="map-container-section" class="z-depth-1-half map-container-section mb-4" style="height: auto;">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.5784113009017!2d-46.539081585130624!3d-23.439591784743488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef51fbe5f8681%3A0x1f8cf929993dc97!2sInstituto%20Federal%20de%20Educa%C3%A7%C3%A3o%2C%20Ci%C3%AAncia%20e%20Tecnologia%20de%20S%C3%A3o%20Paulo!5e0!3m2!1spt-BR!2sbr!4v1567617475329!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+              </div>
+              <!-- Buttons-->
+              <div class="row text-center">
+                <div class="col-md-4">
+                    <i class="fas fa-map-marker-alt"></i>
+                  <p>Av. Salgado Filho, 3501, Guarulhos - SP, Brasil</p>
+                </div>
+                <div class="col-md-4">
+                    <i class="fas fa-phone"></i>
+                  <p>(11) 94186-9261</p>
+                  <p class="mb-md-0">Seg a Sexta, 14:30 às 17:30</p>
+                </div>
+                <div class="col-md-4">
+                    <i class="fas fa-envelope"></i>
+                  <p>solutionsfullstack@gmail.com</p>
+                </div>
+              </div>
+
+              </div>
+            </div>
           </div>
         </section>
       </div>
