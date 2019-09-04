@@ -114,6 +114,14 @@
                   <h5 class="mt-0 font-weight-bold blue-text">Henrique Bustillos</h5>
                   <p class="text-justify">Gerente da empresa, desenvolvedor Fullstack nas linguagens web como HTML, CSS, JavaScript, PHP, MySQL e responsável pelo web design dos serviços oferecidos. É perfeccionista, detalhista em busca do atendimento pleno dos clientes.
                   </p>
+                  <p>
+                    <a href="https://www.linkedin.com/in/rickybustillos/">
+                      <i class="fab fa-linkedin fa-2x mr-2 dark-cyan-text"></i>
+                    </a>
+                    <a href="https://www.facebook.com/dznricky/">
+                      <i class="fab fa-facebook-square fa-2x mr-2 indigo-text"></i>
+                    </a>
+                  </p>
                 </div>
               </div>
               <div class="media d-block d-md-flex">
