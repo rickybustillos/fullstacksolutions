@@ -339,29 +339,29 @@
               <form class="text-center mb-5" action="processa_envio.php" method="post">
                 <div class="form-row">
                   <div class="col-md-6">
-                    <div class="form-group">
+                    <div class="md-form">
                       <label for="nome" class="font-weight-bold">Nome</label> 
-                      <input type="text" id="nome" name="nome" class="form-control mb-4" placeholder="Nome" required>
+                      <input type="text" id="nome" name="nome" class="form-control mb-4" required>
                     </div>
                   </div>
                   <div class="col-md-6">
-                    <div class="form-group">
+                    <div class="md-form">
                       <label for="sobrenome" class="font-weight-bold">Sobrenome</label> 
-                      <input type="text" id="sobrenome" name="sobrenome" class="form-control mb-4" placeholder="Sobrenome" required>
+                      <input type="text" id="sobrenome" name="sobrenome" class="form-control mb-4" required>
                     </div>
                   </div>
                 </div>
-                <div class="form-group">
-                  <label for="email" class="font-weight-bold">Email</label>
-                  <input type="email" id="email" name="email" class="form-control mb-4" placeholder="Seu melhor e-mail" required>
+                <div class="md-form">
+                  <label for="email" class="font-weight-bold">Seu email</label>
+                  <input type="email" id="email" name="email" class="form-control mb-4" required>
                 </div>
-                <div class="form-group">
+                <div class="md-form">
                   <label for="assunto" class="font-weight-bold">Assunto</label>
-                  <input type="text" id="assunto" name="assunto" class="form-control mb-4" placeholder="Assunto" required>
+                  <input type="text" id="assunto" name="assunto" class="form-control mb-4" required>
                 </div>
-                  <div class="form-group">
+                  <div class="md-form">
                     <label for="mensagem" class="font-weight-bold">Mensagem</label>
-                    <textarea class="form-control" id="mensagem" name="mensagem" rows="3" placeholder="Mensagem" required></textarea>
+                    <textarea class="form-control md-textarea" id="mensagem" name="mensagem" rows="3"required></textarea>
                 </div>
                 <div class="custom-control custom-checkbox mb-4">
                   <input type="checkbox" class="custom-control-input" id="copia" name="copia">
