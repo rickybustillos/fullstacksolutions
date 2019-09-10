@@ -134,12 +134,6 @@
               </div>
             </div>
           </div>
-          <h3 class="h3 text-center mb-5 wow fadeIn">Organograma</h3>
-          <div class="row wow fadeIn">
-            <div class="col-lg-6 mb-5 text-center mx-auto">
-              <img class="img-fluid" src="_img/common/organograma.jpg" alt="Organograma">
-            </div>
-          </div>
         </section>
         <div id="conceito"></div>
         <hr class="my-5">
