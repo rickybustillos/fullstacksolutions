@@ -130,6 +130,17 @@
                   <h5 class="mt-0 font-weight-bold blue-text">Jade Luany</h5>
                   <p class="text-justify">Começou a programar em 2018, desenvolveu alguns projetos até a criação da empresa. Centrada, organizada e comunicativa é a responsável pela documentação da empresa e foi escolhida para ser a Scrum-Master da Fullstack Solutions, líder da equipe de desenvolvimento. 
                 </p>
+                <p>
+                    <a href="https://www.linkedin.com/in/jade-luany-3b3188193/">
+                      <i class="fab fa-linkedin fa-2x mr-2 dark-cyan-text"></i>
+                    </a>
+                    <a href="https://pt-br.facebook.com/jade.luany">
+                      <i class="fab fa-facebook-square fa-2x mr-2 indigo-text"></i>
+                    </a>
+                    <a href="https://github.com/JadeLuanyM" target="_blank">
+                      <i class="fab fa-github fa-2x mr-2"></i>
+                    </a>
+                  </p>
                 </div>
               </div>
             </div>
@@ -379,7 +390,10 @@
       <hr class="my-4">
       <div class="pb-4">
         <a href="https://www.facebook.com/solutionsfullstack" target="_blank">
-          <i class="fab fa-facebook-f mr-3"></i>
+          <i class="fab fa-facebook-f fa-2x mr-3"></i>
+        </a>
+        <a href="https://www.instagram.com/solutionsfullstack/" target="_blank">
+            <i class="fab fa-instagram fa-2x mr-2"></i>
         </a>
       </div>
       <div class="footer-copyright py-3">
