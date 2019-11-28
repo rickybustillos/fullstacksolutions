@@ -337,12 +337,8 @@
               </div>
               <div class="row text-center">
                 <div class="col-md-4 mx-auto">
-                    <i class="fas fa-map-marker-alt fa-2x"></i>
+                  <i class="fas fa-map-marker-alt fa-2x"></i>
                   <p>Av. Salgado Filho, 3501, Guarulhos - SP, Brasil</p>
-                </div>
-                <div class="col-md-4 mx-auto">
-                    <i class="fas fa-phone fa-2x"></i>
-                  <p>(11) 94186-9261</p>
                 </div>
               </div>
             </div>
